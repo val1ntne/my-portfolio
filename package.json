@@ -1,6 +1,6 @@
-"homepage": {"url": "https://val1ntne.github.io/my-portfolio"},
 {
   "name": "my-portfolio",
+  "homepage": "https://val1ntne.github.io/my-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
